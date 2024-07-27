@@ -1,0 +1,14 @@
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.exe
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.deps.json
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.runtimeconfig.json
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.dll
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.pdb
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.AssemblyInfo.cs
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.dll
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\refint\SecondConsoleApp.dll
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.pdb
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.genruntimeconfig.cache
+C:\Users\nijat\Desktop\Lessons\142\24.07.2024\Projects\InitialConsoleAppSln\SecondConsoleApp\obj\Debug\net8.0\ref\SecondConsoleApp.dll
